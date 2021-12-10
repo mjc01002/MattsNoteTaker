@@ -5,7 +5,7 @@ const router = require('express').Router();
 //const { filterByQuery, findById, createNewNote, validateNote } = require('../../lib/notes');
 const { notes } = require('../../db/notes');
 
-router.get('/notes', (req, res) => {
+router.get('api/notes', (req, res) => {
   let results = notes;
   if (req.query) {
     results = filterByQuery(req.query, results);
@@ -13,7 +13,7 @@ router.get('/notes', (req, res) => {
   res.json(results);
 });
 
-router.get('/notes/:id', (req, res) => {
+router.get('api/notes/:id', (req, res) => {
   const result = findById(req.params.id, notes);
   if (result) {
     res.json(result);
