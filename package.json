@@ -13,9 +13,6 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "directories": {
-    "lib": "lib"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mjc01002/MattsNoteTaker.git"
