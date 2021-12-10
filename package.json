@@ -12,5 +12,16 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjc01002/MattsNoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjc01002/MattsNoteTaker/issues"
+  },
+  "homepage": "https://github.com/mjc01002/MattsNoteTaker#readme"
 }
