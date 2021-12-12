@@ -29,4 +29,4 @@ GitHub Link:[mjc01002](https://github.com/mjc01002)<br />
 Email me: stoncalkins@gmail.com<br /><br />
 
 ## Screenshot of Application
-
+![Image of Website](https://github.com/mjc01002/MattsWeatherDashboard/blob/main/assets/img/weather%20dashboard.PNG)
