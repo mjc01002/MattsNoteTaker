@@ -3,12 +3,8 @@
   
 
 ## Description
-This application was developed to be able to take notes.  
-This applications was built to be able to manage notes.  Being able to add and delete notes.
+This application was developed to be able to take notes and was built to be able to manage notes.  The main functionality is to be able to add and delete notes.
 This application solved the problem of keeping track of your notes.
-
-
-
 
 ## Table of Contents
 - [Description1](#description)
@@ -22,19 +18,8 @@ This application solved the problem of keeping track of your notes.
 ## Installation
 NPM I and NPM I Express
 
-## Usage
-
-
-## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-<br />
-This application is covered by the MIT license. 
-
-## Contributing
-undefined
-
-## Tests
-
+## Deployed Application Link
+https://fast-cove-86864.herokuapp.com/
 
 ## Contact Information
 mjc01002<br />
@@ -42,3 +27,6 @@ mjc01002<br />
 GitHub Link:[mjc01002](https://github.com/mjc01002)<br />
 <br />
 Email me: stoncalkins@gmail.com<br /><br />
+
+## Screenshot of Application
+
