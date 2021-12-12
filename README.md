@@ -24,7 +24,7 @@ https://fast-cove-86864.herokuapp.com/
 ## Contact Information
 mjc01002<br />
 <br />
-GitHub Link:[mjc01002](https://github.com/mjc01002)<br />
+GitHub Link: [mjc01002](https://github.com/mjc01002)<br />
 <br />
 Email me: stoncalkins@gmail.com<br /><br />
 
